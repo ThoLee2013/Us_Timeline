@@ -1,0 +1,22 @@
+.EventButton {
+  transition: background 0.3s, color 0.3s;
+}
+
+.EventButton:hover {
+  background: #0048FF !important; /* Brighter blue on hover */
+}
+
+.EventButton:hover .Kojj {
+  color: white !important; /* Change text color on hover */
+}
+.PageTitle, .USTimeline16001865, .ThisSiteWasBuiltToAttemptToGiveYouAComprehensiveGuideToMajorAndMinorAmericanEventsFromTheYear1600ToTheEndOfTheAmericanCivilWarKeepInMindNotEveryEventWillBeFoundHereThoughThereStillWillBePlenty {
+  font-family: 'Fredoka One', cursive;
+}
+
+[data-layer="1604"], [data-layer="1605"] {
+  font-family: 'Jersey 25', cursive;
+}
+
+.EventButton .Kojj {
+  font-family: 'Inter', sans-serif;
+}
